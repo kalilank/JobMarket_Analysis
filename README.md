@@ -21,9 +21,9 @@ This project aims to answer four core questions for entry-level job seekers:
 Data Loading ➜ EDA ➜ Feature Engineering ➜ Bivariate Analysis ➜ ML Classification
 ```
 **⬩➤ Key decisions made:**
-.ᐟ Retained 4 salary outliers over $200k since they represent valid Senior AI/ML Engineer roles at multinational companies rather than data errors.
-.ᐟ Converted binary skill columns from numerical to categorical data types.
-.ᐟ Created Low, Mid, and High salary tiers using the 33rd and 67th percentiles to ensure balanced class distributions.
+- Retained 4 salary outliers over $200k since they represent valid Senior AI/ML Engineer roles at multinational companies rather than data errors.
+- Converted binary skill columns from numerical to categorical data types.
+- Created Low, Mid, and High salary tiers using the 33rd and 67th percentiles to ensure balanced class distributions.
 ---
 ## 𖤝 Key Findings 𖤝
 ### .ᐟ Q1 : Entry-Level Openings by Role
